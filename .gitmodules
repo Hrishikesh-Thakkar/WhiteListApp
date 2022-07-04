@@ -1,0 +1,3 @@
+[submodule "WhitelistDAppUI"]
+	path = WhitelistDAppUI
+	url = https://github.com/Hrishikesh-Thakkar/WhitelistDAppUI
